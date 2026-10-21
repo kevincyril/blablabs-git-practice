@@ -2,6 +2,7 @@
 
 ## Before the session
 - Confirm the session link works.
+- Test joining the session in a second browser.
 - Check microphone and camera permissions.
 - Confirm the facilitator is available.
 
@@ -12,3 +13,5 @@
 ## After the session
 - Record technical issues without participant personal details.
 - Summarize feedback for the development team.
+- Assign an owner to each reported technical issue.
+
