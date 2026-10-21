@@ -1,7 +1,7 @@
 # Blab Labs Session Checklist
 
 ## Before the session
-- Test the session link in Firefox.
+- Test the session link in Chrome and Firefox.
 - Check microphone and camera permissions.
 - Confirm the facilitator is available.
 
